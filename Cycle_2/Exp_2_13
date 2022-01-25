@@ -18,3 +18,11 @@ class fstring
   System.out.println("Frequency of "+c+" is "+f);
  }
 }
+
+
+Output:
+Enter string:
+goodmorning
+Enter the character:
+n
+Frequency of n is 2
