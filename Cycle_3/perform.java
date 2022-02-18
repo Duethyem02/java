@@ -43,7 +43,7 @@ class string
 
 
 
-
+/*
 Output:
 
 Enter string:
@@ -53,3 +53,4 @@ o
 Frequency of o is 3
 Reversed string:
 dlrow avaj ot emoclew
+*/
