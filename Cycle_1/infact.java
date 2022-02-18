@@ -12,3 +12,10 @@ class infact
   System.out.println("Factorial ="+f);
  }
 }
+
+/*
+Output:
+Enter number:
+5
+Factorial =120
+*/
