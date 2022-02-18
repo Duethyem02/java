@@ -26,7 +26,7 @@ class xs
      System.out.println(x+"is not found");
  }
 }
-
+/*
 Output:
 
 //1
@@ -43,3 +43,4 @@ Welcome
 Enter character to be searched:
 a
 ais not found
+*/
