@@ -19,10 +19,11 @@ class fstring
  }
 }
 
-
+/*
 Output:
 Enter string:
 goodmorning
 Enter the character:
 n
 Frequency of n is 2
+*/
