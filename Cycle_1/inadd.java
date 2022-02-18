@@ -12,3 +12,11 @@ class inadd
 
  }
 }
+
+/*
+Output:
+Enter numbers to be added:
+5
+6
+Sum =11
+*/
