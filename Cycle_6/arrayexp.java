@@ -27,3 +27,17 @@ class arrayexp
   }
  }
 }
+
+/*
+Output:
+Enter values in array:
+1
+5
+9
+4
+java.lang.ArrayIndexOutOfBoundsException: 3
+Elements in array are:
+1
+5
+9
+*/
