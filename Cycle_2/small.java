@@ -25,3 +25,16 @@ class small
   
  }
 }
+
+/*
+Output:
+Enter the size of array:
+5
+Enter the array:
+4
+3
+6
+2
+1
+Smallest element:1
+*/
