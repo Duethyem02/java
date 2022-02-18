@@ -30,3 +30,15 @@ class mat
   System.out.println("largest element:"+max);
  }
 }
+
+/*
+Output:
+Enter order of matrix(NXN)
+2
+Enter matrix:
+12
+4
+34
+21
+largest element:34
+*/
