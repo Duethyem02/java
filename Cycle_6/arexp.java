@@ -17,3 +17,12 @@ class arexp
   }
  }
 }
+
+
+/*
+Output:
+Enter number:
+5
+Entered value is :5
+java.lang.ArithmeticException: / by zero
+*/
