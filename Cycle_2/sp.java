@@ -26,7 +26,7 @@ class sp
  }
 }
 
-
+/*
 Output:
 //1
 Enter string:
@@ -36,3 +36,4 @@ Not Palindrome
 Enter string:
 javaj
 Palindrome
+*/
