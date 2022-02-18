@@ -36,7 +36,7 @@ class student
 
 
 
-
+/*
 Output:
 Enter details and mark:
 Name,Roll no,Marks
@@ -51,3 +51,4 @@ Name: Ashwin
 Roll no: 15
 Marks:
 23--24--21--25--19
+*/
