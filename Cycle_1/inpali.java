@@ -19,3 +19,10 @@ class inpali
     System.out.println(c+"is not palindrome");
  }
 }
+
+/*
+Output:
+Enter a number:
+15351
+15351is palindrome
+*/
