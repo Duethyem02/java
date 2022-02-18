@@ -28,3 +28,16 @@ class large
   System.out.println("Second largest element:"+a[n-2]);
  } 
 }
+
+/*
+Output:
+Enter array size:
+5
+Enter array:
+4
+7
+9
+5
+3
+Second largest element:7
+*/
