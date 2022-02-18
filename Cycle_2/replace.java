@@ -25,3 +25,25 @@ class replace
   }
  } 
 }
+
+/*
+Output:
+Enter the number of elements in array:
+5
+Enter array:
+3
+6
+9
+1
+15
+Enter the position to be changed:
+4
+Enter the element to be inserted:
+12
+New array:
+3 
+6 
+9 
+12 
+15 
+*/
