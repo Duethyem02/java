@@ -28,3 +28,12 @@ class file2
   {System.out.println("Exception occured");}
  }
 }
+
+
+
+/*
+Output:
+Number of characters :51
+Number of lines:3
+Number of words :10
+*/
