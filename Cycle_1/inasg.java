@@ -19,3 +19,10 @@ class inasg
      System.out.println(temp+"is not an armstrong number");
  }
 }
+
+/*
+Output:
+Enter 3 digit number:
+153
+153is an armstrong number
+*/
