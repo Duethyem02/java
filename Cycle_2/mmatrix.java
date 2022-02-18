@@ -58,3 +58,18 @@ class mmatrix
   
  }
 }
+
+/*
+Output:
+Enter order of matrix:
+2
+2
+Enter matrix:
+1
+2
+3
+4
+Transpose is:
+1 3 
+2 4 
+*/
