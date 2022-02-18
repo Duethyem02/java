@@ -16,3 +16,14 @@ class infactor
   } 
  }
 }
+
+/*
+Output:
+Enter number:
+8
+Factors of 8
+1
+2
+4
+8
+*/
