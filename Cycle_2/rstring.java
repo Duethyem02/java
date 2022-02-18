@@ -36,7 +36,7 @@ class rstring
 
 
 
-
+/*
 Output:
 Enter string:
 Kerela
@@ -46,3 +46,4 @@ Enter character to be placed:
 a
 New string is:
 Kerala
+*/
