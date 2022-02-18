@@ -13,3 +13,10 @@ class insumn
  
  }
 }
+
+/*
+Output:
+Enter number:
+10
+Sum =55
+*/
