@@ -26,9 +26,10 @@ class fileOne
 
 
 
-
+/*
 Output:
 
 1. Hi all,
 2. Welcome to the world of programming
 3. let us start.
+*/
