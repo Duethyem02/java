@@ -53,3 +53,26 @@ class addm
    System.out.println("Addition is not possible");
  }
 }
+
+/*
+Output:
+Enter order of 1st matrix:
+2
+2
+Enter order of 2nd matrix:
+2
+2
+Enter 1st matrix:
+1
+2
+3
+4
+Enter 2nd matrix:
+5
+6
+7
+8
+Result is:
+6 8 
+10 12 
+*/
