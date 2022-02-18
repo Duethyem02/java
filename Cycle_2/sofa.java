@@ -20,3 +20,16 @@ class sofa
   System.out.println("Sum ="+sum);
  }
 }
+
+/*
+Output:
+Enter the size of array:
+5
+Enter the aray:
+4
+3
+6
+2
+1
+Sum =16
+*/
