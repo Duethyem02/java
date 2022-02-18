@@ -36,7 +36,7 @@ class areas
 }
 
 
-
+/*
 Output:
 Circle:-
 Radius:
@@ -54,3 +54,4 @@ Base:
 Height:
 4
 Area = 10.0
+*/
