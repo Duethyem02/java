@@ -36,7 +36,7 @@ class trace
 
 
 
-
+/*
 Output:
 Enter order of square matrix:
 3
@@ -55,3 +55,4 @@ Matrix is:
 2 3 4 
 3 1 5 
 Trace of matrix is:11
+*/
