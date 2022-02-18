@@ -15,3 +15,10 @@ class fileexp
   } 
  }
 }
+
+
+/*
+Output:
+Opening file..
+java.io.FileNotFoundException: test.txt (No such file or directory)
+*/
