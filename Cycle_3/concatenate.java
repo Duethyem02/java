@@ -25,7 +25,7 @@ class concatenate
 }
 
 
-
+/*
 Output:
 
 Enter numbers:
@@ -36,3 +36,4 @@ Enter strings:
 hello
 world
 After addition - helloworld
+*/
