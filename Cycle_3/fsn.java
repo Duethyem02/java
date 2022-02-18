@@ -46,7 +46,7 @@ class fsn
 }
 
 
-
+/*
 Output:
 //1
 Select operation:
@@ -72,4 +72,4 @@ For factorial:1
 For sum of digits of number:2
 4
 Select a valid option
-
+*/
