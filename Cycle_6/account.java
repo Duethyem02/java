@@ -20,3 +20,17 @@ class account
   checkbalance(b);
  }
 }
+
+
+/*
+Output:
+//1
+Enter account balance:
+300
+Exception in thread "main" java.lang.ArithmeticException: Balance is not sufficient
+
+//2
+Enter account balance:
+10000
+You can proceed
+*/
