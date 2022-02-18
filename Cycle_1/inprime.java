@@ -23,3 +23,9 @@ class inprime
  }
 }
 
+/*
+Output:
+Enter the number:
+10
+10is an even number
+*/
