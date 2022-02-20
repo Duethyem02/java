@@ -20,7 +20,8 @@ public class garbageexp
 }
 
 
-
+/*
 Output:
 Garbage collected....
 Garbage collected....
+*/
