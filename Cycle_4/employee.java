@@ -77,7 +77,7 @@ class office
  }
  
 }
-
+/*
 Output:
 
 Enter name,address,age,phone_number,salary
@@ -113,3 +113,4 @@ Ph.No.:8756453200
 Address:Alla
 Salary:36800.0
 Department:Systems
+*/
