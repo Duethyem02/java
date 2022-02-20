@@ -33,7 +33,7 @@ class employee
  }
 }
 
-
+/*
 Output:
 Enter name,employee_number,phone_number
 Nithin Joy
@@ -76,4 +76,4 @@ Name:Slowmo Manesh
 Employee No.:56091
 Ph.No:8457273697
 ----------------------------------
-
+*/
