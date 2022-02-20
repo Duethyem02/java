@@ -36,7 +36,7 @@ class shapes
   h.numberOfSides();
  }
 }
- 
+ /*
  Output:
  
 Rectangle:
@@ -45,4 +45,4 @@ Triangle:
 No.of sides: 3
 Hexagon:
 No.of sides: 6
- 
+ */
