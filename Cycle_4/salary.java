@@ -35,7 +35,7 @@ class salary
 
 
 
-
+/*
 
 Output:
 
@@ -43,3 +43,4 @@ Name of class is Employee.
 Salary of employee is 10000
 Name of class is Engineer.
 Salary of employee is 20000
+*/
