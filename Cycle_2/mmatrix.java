@@ -61,15 +61,23 @@ class mmatrix
 
 /*
 Output:
-Enter order of matrix:
+Enter order of 1st matrix:
+2
+2 
+Enter order of 2nd matrix:
 2
 2
-Enter matrix:
+Enter 1st matrix:
 1
 2
 3
-4
-Transpose is:
-1 3 
-2 4 
+4 
+Enter 2nd matrix:
+1
+1
+2
+3
+Result is: 
+5 7 
+11 15 
 */
