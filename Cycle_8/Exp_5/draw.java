@@ -16,8 +16,14 @@ class draw extends Canvas{
         		g.setColor(Color.BLUE);
         		g.drawOval(45,75,50,50);
         		g.fillOval(45,75,50,50);
+        		g.setColor(Color.RED);
+        		g.drawLine(140,30,140,100);
+        		g.drawLine(180,30,180,100);
+        		g.drawLine(140,30,180,100);
+        		g.drawLine(180,30,140,100);
+        	        g.drawLine(140,100,180,100);
+        		g.drawLine(140,30,180,30);
         	}
-        	
         }
 	public static void main (String args[]){
 		draw d=new draw();
