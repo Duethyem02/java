@@ -60,6 +60,7 @@ class linkedlist{
 
 
 
+
 /*
 OUTPUT:
 Enter no.of nodes:
