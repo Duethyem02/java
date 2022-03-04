@@ -1,14 +1,21 @@
 import java.awt.*;
 import javax.swing.*;
-class draw extends Frame{
+class draw extends Canvas{
         int a;
         draw(){
          a=1;
         }
         public void paint(Graphics g){
         	if(a==1){
-        		g.drawRect(20,30,40,50);
-        		g.drawOval(20,30,40,50);
+        		g.setColor(Color.GREEN);
+        		g.drawRect(20,30,100,150);
+        		g.fillRect(20,30,100,150);
+        		g.setColor(Color.WHITE);
+        		g.drawRect(30,40,80,130);
+        		g.fillRect(30,40,80,130);
+        		g.setColor(Color.BLUE);
+        		g.drawOval(45,75,50,50);
+        		g.fillOval(45,75,50,50);
         	}
         	
         }
