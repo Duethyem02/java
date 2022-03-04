@@ -1,2 +1,2 @@
-# java 
-Java Lab Experiments and outputs are uploaded (S3)
+# JAVA LAB 
+Java Lab Experiments and outputs in Semster 3 are uploaded 
