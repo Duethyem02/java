@@ -39,7 +39,8 @@ public class Wave extends JPanel
 	    g.drawLine(x1, y1, x2, y2);
 	}
     }
-
+ 
+ 
     public static void main(String[] args) 
     {
 	JFrame.setDefaultLookAndFeelDecorated(true);
