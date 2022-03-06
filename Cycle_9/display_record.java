@@ -17,3 +17,10 @@ class display_record
             System.out.println(e);}
     }
 }
+/* 
+No       Name            Age             Place
+101     Akash           20              Kollam
+102     Varsha          19              Mavelikkara
+103     Abhinav         20              Thrissur  
+ 
+*/
