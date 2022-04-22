@@ -61,6 +61,7 @@ void print(int a[], int n)
 }
 
 /*
+
 Output:
 Enter the number of element in the array : 8                                                                                                                         Enter the array elements : 12
 4
