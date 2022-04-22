@@ -59,3 +59,16 @@ void print(int a[], int n)
 	System.out.println();
 }
 }
+
+/*
+Output:
+Enter the number of element in the array : 8                                                                                                                         Enter the array elements : 12
+4
+65
+34
+16
+2
+32
+15
+The Sorted Array is 4 2 12 16 15 32 34 65
+*/
