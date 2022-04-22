@@ -49,12 +49,12 @@ class binarysearch
 /*
 Output:
 Enter the size:6
-Enter the elements:1
-3
-6
-8
-2
+Enter the elements:3
+5
 7
-Enter the item to be searched:8
-Element 8 not in the list
+9
+11
+13
+Enter the item to be searched:5
+5 is found at position 2
 */
