@@ -45,3 +45,16 @@ class binarysearch
 	}
 
 }
+
+/*
+Output:
+Enter the size:6
+Enter the elements:1
+3
+6
+8
+2
+7
+Enter the item to be searched:8
+Element 8 not in the list
+*/
