@@ -1,9 +1,12 @@
 import java.sql.*;
 import java.util.*;
-public class student {
+public class student 
+{
 
-    public static void main(String[] args) {
-        try {
+    public static void main(String[] args) 
+    {
+        try 
+        {
             Scanner sc = new Scanner(System.in);
             Class.forName("com.mysql.jdbc.Driver");
             Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/data?autoReconnect=true&useSSL=false", "root", "root");
@@ -14,7 +17,8 @@ public class student {
             String name;
             float CGPA;
             PreparedStatement ps = con.prepareStatement("insert into studentCGPA values(?,?,?)");
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < n; i++) 
+            {
                 System.out.println("\n\tDetails of Student "+(i+1));
                 System.out.print("\nEnter Roll No: ");
                 rollno = sc.nextInt();
@@ -40,7 +44,9 @@ public class student {
                 stmt.executeUpdate("truncate studentCGPA");
             sc.close();
 
-        } catch (Exception e) {
+        } 
+        catch (Exception e) 
+        {
             System.out.println(e);
         } 
       
