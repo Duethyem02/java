@@ -19,8 +19,8 @@ class display_record
 }
 /* 
 No       Name            Age             Place
-101     Akash           20              Kollam
-102     Varsha          19              Mavelikkara
-103     Abhinav         20              Thrissur  
+101     Jino           20              Malappuram
+102     Slowmo          19             Chungthara
+103     Shamna         20              Edakara  
  
 */
