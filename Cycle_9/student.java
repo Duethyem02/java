@@ -52,14 +52,14 @@ Enter How Many Student : 2
 
         Details of Student 1
 
-Enter Roll No: 101
-Enter Name: Akku
+Enter Roll No: 01
+Enter Name: Shamna
 Enter CGPA: 9
 
         Details of Student 2
 
-Enter Roll No: 102
-Enter Name: Addu
+Enter Roll No: 02
+Enter Name:Fahma
 Enter CGPA: 6
 
          Students who have CGPA greater than 7
