@@ -17,6 +17,9 @@ class display_record
             System.out.println(e);}
     }
 }
+
+
+
 /* 
 No       Name            Age               Place
 001     Jino             20              Malappuram
