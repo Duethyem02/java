@@ -18,9 +18,9 @@ class display_record
     }
 }
 /* 
-No       Name            Age             Place
-101     Jino           20              Malappuram
-102     Slowmo          19             Chungthara
-103     Shamna         20              Edakara  
+No       Name            Age               Place
+101     Jino             20              Malappuram
+102     Slowmo           19              Chungthara
+103     Shamna           20              Edakara  
  
 */
